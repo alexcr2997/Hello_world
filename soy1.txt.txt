@@ -1,2 +1,2 @@
 resisstor
-capacitor
+capacitor v
